@@ -1,4 +1,4 @@
 streamlit
 pykrx
 pandas
-matplotlib
+matplotlib==3.8.0
